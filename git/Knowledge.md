@@ -28,5 +28,13 @@ gpg --full-gen-key
 
 ```ssh
 
-gpg --list-secret-keys
+gpg --list-secret-keys --key-id LONG
+```
+
+
+### Once you found it 👀 , then its time to export it (get the ID - its located after "rsa****/")
+
+```ssh
+
+gpg --list-secret-keys --key-id LONG
 ```
