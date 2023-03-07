@@ -55,3 +55,9 @@ git config user.signingkey "the key on gitlab, the gpg you added"
 
 <img src="verifiedsht.PNG" alt="verified" />
 
+
+<br>
+<br>
+<br>
+
+### ***Note that is is for GPG only, check https://docs.gitlab.com/ee/user/project/repository/ssh_signed_commits/ for SSH***
