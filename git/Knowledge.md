@@ -49,6 +49,9 @@ git config user.email "my email"
 git config user.signingkey "the key on gitlab, the gpg you added"
 ```
 
+### As a result 🚀
 
 
+
+<img src="verifiedsht.PNG" alt="verified" />
 
