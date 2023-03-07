@@ -36,5 +36,19 @@ gpg --list-secret-keys --key-id LONG
 
 ```ssh
 
-gpg --list-secret-keys --key-id LONG
+gpg --armor --export <ID>
 ```
+
+
+### Assuming I added it and I am brilliant ! Then set the config `user.signingkeey` and possibly `user.email` on the repo only not globally
+
+```ssh
+
+git config user.email "my email"
+
+git config user.signingkey "the key on gitlab, the gpg you added"
+```
+
+
+
+
