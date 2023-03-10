@@ -1,5 +1,4 @@
-# my-knowledge-base
+# My Knowledge Base 📝
 
 
-
-You can find all of the stuff that I need to right down for me not to forget
+You can find all of the stuff that I need to remember
